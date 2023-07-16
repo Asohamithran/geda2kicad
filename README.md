@@ -1,2 +1,2 @@
 # geda2kicad
-Parser for convert legacy geda-symbols to kicad compaitible symbol files
+Parser to convert legacy geda-symbols to kicad compaitible symbol files
